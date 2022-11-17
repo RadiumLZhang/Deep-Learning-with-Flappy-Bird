@@ -11,7 +11,7 @@ import os
 import random
 import gym
 import sys
-sys.path.append("engine\gym-simpleflappy-master")
+sys.path.append("Engine\gym-simpleflappy")
 import time
 import gym_simpleflappy
 import numpy as np
