@@ -1,0 +1,3 @@
+[submodule "Engine/gym-simpleflappy"]
+	path = Engine/gym-simpleflappy
+	url = https://github.com/jmathison/gym-simpleflappy.git
